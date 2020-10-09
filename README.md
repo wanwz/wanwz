@@ -2,8 +2,8 @@
 
 <div>
 <p align="center">
-    <a href="https://dunwu.github.io/" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/dunwu/images/master/common/dunwu-logo-200.png" alt="logo" width="150px"/>
+    <a href="https://wanwz.github.io/" target="_blank" rel="noopener noreferrer">
+        <img src="xxx" alt="logo" width="150px"/>
     </a>
 </p>
 </div>
@@ -11,7 +11,7 @@
 
 ## Welcome
 
-> 🍵 **大道至简，知易行难**
+> 🍵 **记录点什么吧，要不都忘了**
 
 我的博客：
 
