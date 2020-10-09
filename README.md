@@ -3,7 +3,7 @@
 <div>
 <p align="center">
     <a href="https://wanwz.github.io/" target="_blank" rel="noopener noreferrer">
-        <img src="xxx" alt="logo" width="150px"/>
+        <img src="https://github.com/wanwz/linux/blob/main/image/timg.jpg" alt="logo" width="150px"/>
     </a>
 </p>
 </div>
